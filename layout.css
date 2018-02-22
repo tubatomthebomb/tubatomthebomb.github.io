@@ -1,0 +1,143 @@
+body {
+	background-color: #CD853F;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: medium;
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	background: #F4A460;
+	width: 768px;
+	margin: auto;
+	border-right: 2px solid #A0522D;
+	border-left: 2px solid #A0522D;
+	border-top: 2px solid #A0522D;
+	padding: 0px;
+}
+
+#content {
+	background: #F4A460;
+	margin: 0;
+	padding: 10px 38px 10px 20px;
+	width: 508px;
+	float: left;
+	border-right: 2px solid #F4A460;
+	border-left: 2px solid #A0522D;
+}
+
+#navigation {
+	
+	margin: 0;
+	padding: 10px 100px 10px 100px;
+	float: left;
+	width: 180px;
+	/*border: 1px #666 solid;
+	text-align: center;*/
+
+}
+
+#navigation h2 {
+	color: #A0522D;
+}
+
+#footer{
+	clear: both;
+	padding: 10px 20px;
+	margin: 0;
+	color: #7FFF00;
+	font-size: 85%;
+	font-weight: bold;
+	background-color: #333;
+}
+
+li {
+	margin: 0 0 6px 0;
+}
+
+p,table{
+	
+	margin; 5px 0;
+}
+
+table {
+	/*font-size: 12px;*/
+	width: 458px;
+	margin: 5px 0 0 50px;
+	/*border: 1px solid #ccc;*/
+	border-spacing: 10px 5px;
+}
+
+th {
+	font-weight: bold;
+	border-bottom; 1px dashed #FF6A0F;
+}
+
+td {
+    vertical-align: top;
+}
+
+.yearvol{
+	width: 10%;
+	text-align: left;
+}
+
+.spacecol{
+	width: 5%;
+	border-bottom: none;
+}
+	
+.qualcol{
+	width: 60%;
+	text-align: left;
+}
+
+iframe{
+	margin: 80px;
+}
+
+ul {
+	margin: 10px 10px 10px 10px;
+	padding: 5px 10px 1000px 500px;
+}
+
+h1 {
+	background: url(images/banner.jpg) top;
+	margin: 0;
+	padding: 30px 60px 55px 40px;
+	font-family: "lucida Grande", "lucida Sana", "Trebuchet MS";
+	font-size: 250%;
+	font-weight: bold;
+	color: #fff;
+}
+
+h2 {
+	margin: 18px 0 3px 0;
+	padding: 16px 0 3px 8px;
+	font-size: 135%;
+	background: url(images/gradient.jpg);
+	font-weight: bold;
+	color: #2B2B6A;
+	border-bottom: 1px solid #DE7C29;	
+}
+
+h3 {
+	margin: 10px 0 5px 10px;
+	font-size: 100%;
+	font-weight: bold;
+	color: #2B2B6A
+}
+
+img{
+	float: none;
+	background: #8B008B;
+	margin: 20px 10px 0px 125px;
+	padding: 5px;
+	border: 1px solid #D9E0E6;
+	}
+	
+.noborder{
+	border: none;
+	margin: 0 2px;
+	padding: 0;
+}
